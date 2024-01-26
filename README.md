@@ -1,0 +1,1 @@
+Projeto IMERSÃO FRONT-END ALURA 2024 - tela inicial do spotify
